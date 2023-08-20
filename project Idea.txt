@@ -1,0 +1,9 @@
+python new project workspace creator!
+- create a folder by the given name
+- create a virtual environment
+- initialize a git repository
+- create a .gitignore file
+- add virtual environment to .gitignore
+- create a main.py file
+- create a README.md file
+- activate virtual environment

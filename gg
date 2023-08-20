@@ -1,0 +1,3 @@
+"path\to\chrome\chrome.exe" --app=http://facebook.com
+"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --app=http://facebook.com
+"C:\Program Files\BraveSoftware\Brave-Browser\Application\brave.exe" --app=http://facebook.com --new-window
